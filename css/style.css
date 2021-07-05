@@ -1,0 +1,52 @@
+h1{ color: darkred;
+	color: rosybrown;
+	color: yellowgreen;
+	color: blue;
+
+}
+.head1{
+	background-color:yellowgreen;
+}
+.red{border: 50px;
+
+}
+h3{
+	font-size: 30px;
+
+}
+H1{
+	color: darkred;
+}
+
+.yellow {
+	color: yellow;
+}
+
+.MAP {
+	width: 100%;
+	height: 400PX;
+}
+.header{ 
+	background-color: darkred;
+
+}
+
+.container{ overflow: hidden; }
+.blog{ float: left;
+ width: 60%;
+	min-height: 100px; 
+background-color: purple;}
+.contact{ float: right;
+	width: 40%;
+	min-height: 100px;
+background-color: limegreen;}
+
+.wrapper{}
+.single{width: 30%;
+float: left; 
+	min-height: 80Px; }
+.red{background-color: red;}
+.green{background-color: green;}
+.blue{background-color: blue;}
+.footer{ background-color: orange; 
+min-height: 80px;}
